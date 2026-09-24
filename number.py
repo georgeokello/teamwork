@@ -1,0 +1,1 @@
+print("git was developed by a genius who developed linux who believes in opensource, community and collaboration")
